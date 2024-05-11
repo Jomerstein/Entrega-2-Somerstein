@@ -1,0 +1,17 @@
+{
+  "name": "entrega-2-somerstein",
+  "version": "1.0.0",
+  "description": "Entrega del segundo trabajo de TP2",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
